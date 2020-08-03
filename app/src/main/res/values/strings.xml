@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recycleview</string>
+    <string-array  name="peoples_names">
+        <item>Esther Manthi</item>
+        <item>Gregory Mutua</item>
+        <item>Meshack Mutisya</item>
+        <item>Judith Mueni</item>
+        <item>Stanley Mutiso</item>
+        <item>Sam Waweru</item>
+        <item>Linet Mutheu</item>
+        <item>Jackline Mwende</item>
+        <item>Ian Muinde</item>
+        <item></item>
+    </string-array>
+    <string-array name="attributes">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
